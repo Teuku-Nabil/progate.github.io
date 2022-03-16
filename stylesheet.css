@@ -121,6 +121,7 @@ header {
   max-width:100%;height:auto;
 }
 
+
 .txt-contents {
   width: 80%;
   display: inline-block;
@@ -192,5 +193,24 @@ footer .container {
   .container{
     width: 90%;
     margin: 25px auto;
+  }
+
+  .konten-wrapper {
+    height: 950px;
+    padding-bottom: 900px;
+    background-color: #f7f1e3;
+    text-align: center;
+    position: relative;
+  }
+
+  .heading {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #5f5d60;
+  }
+
+  .konten {
+    float: left;
+    width: 100%;
   }
 }
