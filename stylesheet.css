@@ -222,4 +222,11 @@ footer .container {
     color: black;
     padding-bottom: 15px;
   }
+
+  .heading h2 {
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+  }
 }
