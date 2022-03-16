@@ -117,6 +117,10 @@ header {
   font-size: 23px;
 }
 
+.konten-icon img {
+  max-width:100%;height:auto;
+}
+
 .txt-contents {
   width: 80%;
   display: inline-block;
@@ -183,5 +187,10 @@ footer .container {
 
   .top-main h1{
     font-size: 40px;
+  }
+
+  .container{
+    width: 90%;
+    margin: 25px auto;
   }
 }
