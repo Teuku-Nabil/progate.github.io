@@ -192,7 +192,7 @@ footer .container {
 
   .container{
     width: 90%;
-    margin: 25px auto;
+    margin: auto;
   }
 
   .konten-wrapper {
@@ -212,5 +212,14 @@ footer .container {
   .konten {
     float: left;
     width: 100%;
+  }
+
+  .txt-contents {
+    width: 90%;
+    display: inline-block;
+    margin-top: 70px;
+    font-size: 15px;
+    color: black;
+    padding-bottom: 15px;
   }
 }
